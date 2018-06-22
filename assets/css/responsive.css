@@ -1,0 +1,21 @@
+@media(max-width:767px){
+  .logo-h{
+    width: 170px;
+    margin: 16px auto;
+    padding-left: 25px;
+  }
+  .itemb{
+    padding: 10px 10px!important;
+  }
+  .card-icon-go img {
+    width: 25px;
+  }
+  .card-icon[_ngcontent-c3] img[_ngcontent-c3] {
+    width: 35px;
+  }
+}
+@media(max-width:359px){
+  .itemb {
+    padding: 10px 7px!important;
+  }
+}
